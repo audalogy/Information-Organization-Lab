@@ -1,0 +1,18 @@
+body {
+	margin: 0px;
+    background-color: #D3D3D3;
+}
+
+#container {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#map {
+	height: 420px;
+	margin-top: 30px;
+}
+
+.table#DataTable {
+	margin-top: 30px;
+}

@@ -1,0 +1,33 @@
+/* content */
+
+h1 {
+	padding-left: 100px;
+}
+
+#container {
+	margin: 40px auto;
+	overflow: hidden;
+	width: 800px;
+	padding: 30px;
+}
+
+.column {
+	float: left;
+	width: 310px;
+	border: 2px solid;
+    border-radius: 15px;
+}
+
+.icon:hover{
+    width: 6em;
+ }
+
+#imageRemove{
+	height: 18px;
+	width: 18px;
+}
+
+input#todo-form-add
+{
+width=50px;  /*adjust width as required*/
+}
